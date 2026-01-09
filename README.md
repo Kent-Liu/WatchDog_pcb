@@ -28,7 +28,7 @@ A tiny WatchDog PCB for monitoring and protecting battery voltage in low-power n
 - 當電池電壓低於 **3.1V** 時自動斷電保護  
 - 當電池電壓回升至 **3.7V（約 50%）** 時自動恢復供電  
 - 迷你尺寸設計：約 **20 mm × 10 mm**  
-- 可透過調整電阻值，自行設定斷電與恢復供電的電壓門檻  
+- 您可以變更設計透過調整電阻值，來改變斷電與恢復供電的電壓門檻  
 - 設計基於 **CN312** 晶片  
   - Datasheet: https://www.shotech.de/Datasheet/consonace/DSE-CN312.pdf
 
@@ -101,7 +101,7 @@ Special thanks to **Hsieh** for generously sharing this design with the communit
 - Automatically disconnects power when battery voltage drops below **3.1V**  
 - Automatically restores power when battery voltage rises above **3.7V (approximately 50%)**  
 - Compact form factor: approximately **20 mm × 10 mm**  
-- Voltage cutoff and restore thresholds can be adjusted by changing resistor values  
+- Voltage cutoff and restore thresholds can be adjusted by changing resistor values in your design  
 - Design based on the **CN312** integrated circuit  
   - Datasheet: https://www.shotech.de/Datasheet/consonace/DSE-CN312.pdf
 
