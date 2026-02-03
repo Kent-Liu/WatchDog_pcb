@@ -18,7 +18,9 @@ A tiny WatchDog PCB for monitoring and protecting battery voltage in low-power n
 
 ## ♥ Thanks ♥
 
-特別感謝 **Hsieh** 無私地分享其設計，讓社群得以受益。
+(原始版本) 特別感謝 **Hsieh** 無私地分享其設計，讓社群得以受益。
+
+2026-Feb-3: 感謝熱心的 **周喬治** 大大提出的設計修改建議。
 
 ---
 
@@ -91,7 +93,9 @@ By sharing this design openly, we hope to encourage further improvements and ext
 
 ### Thanks
 
-Special thanks to **Hsieh** for generously sharing this design with the community.
+(Original design) Special thanks to **Hsieh** for generously sharing this design with the community.
+
+2026-Feb-3: Special Thanks to **George Chou** for the design modification suggestions.
 
 ---
 
